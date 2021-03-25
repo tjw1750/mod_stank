@@ -3,7 +3,8 @@
     Tool Name: STANK
     Description: Simply put, STANK, is a packet sniffer. It is a powershell tool that allows for recursive file search based on the extension,
     as well as gathering metadata about each of the files that it finds. It conveniently then makes copies of these files and puts them in an 
-    ouptut location specified by the user that can be used for further inspection later on. 
+    ouptut location specified by the user that can be used for further inspection later on. Seaching for files based on extension can be useful
+    once we get initial access.
  #>
 
 
